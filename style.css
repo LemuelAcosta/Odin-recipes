@@ -1,0 +1,26 @@
+body {
+    background-color:bisque;
+}
+
+.main {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.list {
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    background-color: beige;
+}
+
+.list-item {
+    font-weight: 800;
+    list-style-position: inside;
+    text-align: left;
+}
+
+a:hover {
+    color:cadetblue;
+    list-style-type:circle;
+}

@@ -1,0 +1,42 @@
+body {
+    background-color:bisque;
+}
+
+.main {
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+ul,
+ol {
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    background-color: beige;
+}
+
+.list-item {
+    font-weight: 800;
+    list-style-position: inside;
+    text-align: left;
+}
+
+li {
+    list-style-position: inside;
+    text-align: left;
+}
+
+a:hover {
+    color:cadetblue;
+}
+
+.back-home {
+    display: inline-block;
+    background-color: aquamarine;
+    font-weight: 600;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 2px auto;
+    padding: 10px;
+}
